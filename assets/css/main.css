@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 40px;
+    color: #bd0000;
 }
 
 h4 {
@@ -32,7 +33,6 @@ h4 {
 /* Paragraph & Typographic */
 p {
     line-height: 28px;
-    margin-bottom: 25px;
     font-size: 16px;
 }
 
@@ -117,8 +117,19 @@ i {
 #headerwrap h1 {
 	margin-top: 60px;
 	margin-bottom: 15px;
-	color: black;
 	font-size: 45px;
 	font-weight: 300;
 	letter-spacing: 1px;
+}
+
+#enter {
+    background-color: #bd0000;
+    color: white;
+    border: none;
+    padding: 15px 25px 15px 25px;
+    font-family: "Lato";
+}
+
+#enter:hover {
+    background-color: #7b0000;
 }
