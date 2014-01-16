@@ -135,3 +135,36 @@ i {
 #enter:hover {
     background-color: #7b0000;
 }
+
+.enterform {
+    width: 290px;
+    height:40px;
+    border: none;
+    border-top: 1px solid #dddddd;
+    border-right: 1px solid #ddd;
+}
+
+.enter1 {
+    margin: 0px;
+    height: 40px;
+    width: 95px;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.enter2 {
+    right: 0px;
+    display: inline-block;
+    height: 40px;
+    width: 95px;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.enter3 {
+    margin: 0px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-top: 1px solid #ddd;
+}
