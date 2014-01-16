@@ -147,7 +147,7 @@ i {
 .enter1 {
     margin: 0px;
     height: 40px;
-    width: 95px;
+    width: 91px;
     border: none;
     border-top: 1px solid #ddd;
 }
@@ -156,7 +156,7 @@ i {
     right: 0px;
     display: inline-block;
     height: 40px;
-    width: 95px;
+    width: 91px;
     border: none;
     border-top: 1px solid #ddd;
 }
@@ -167,4 +167,5 @@ i {
     width: 100px;
     border: none;
     border-top: 1px solid #ddd;
+    border-right: 1px solid #ddd;
 }
