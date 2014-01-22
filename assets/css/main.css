@@ -10,7 +10,7 @@
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -116,8 +116,8 @@ i {
 
 #headerwrap h1 {
 	margin-top: 60px;
-	margin-bottom: 15px;
-	font-size: 45px;
+	margin-bottom: 30px;
+	font-size: 300%;
 	font-weight: 300;
 	letter-spacing: 1px;
 }
