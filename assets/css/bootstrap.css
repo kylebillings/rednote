@@ -1465,6 +1465,9 @@ pre code {
 }
 
 @media (min-width: 900px) {
+  #bgimage {
+    display: none;
+  }
   .col-lg-1,
   .col-lg-2,
   .col-lg-3,
