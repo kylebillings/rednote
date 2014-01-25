@@ -1464,10 +1464,14 @@ pre code {
   }
 }
 
-@media (min-width: 900px) {
-  #bgimage {
+@media (max-width: 900px) {
+    #bgimage {
     display: none;
   }
+}
+
+@media (min-width: 900px) {
+
   .col-lg-1,
   .col-lg-2,
   .col-lg-3,
