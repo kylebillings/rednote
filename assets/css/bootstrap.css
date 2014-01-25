@@ -814,7 +814,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 970px) {
   .container {
     width: 970px;
   }
@@ -1470,7 +1470,7 @@ pre code {
   }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 970px) {
 
   .col-lg-1,
   .col-lg-2,
